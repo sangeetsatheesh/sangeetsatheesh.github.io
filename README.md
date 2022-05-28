@@ -1,1 +1,2 @@
-# DineRobotics.github.io
+# sangeetsatheesh.github.io
+# chargemytech.in
